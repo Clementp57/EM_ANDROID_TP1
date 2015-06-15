@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <string name="hello_world">Bonjour à tous!</string>
+    <string name="action_settings">Configuration</string>
+    <string name="FR">FR</string>
+    <string name="EN">EN</string>
+    <string name="loading"> Démarrage...</string>
+    <string name="action_quit">Sortir</string>
+
+    <string name="really_exit">Voulez vous vraiment quitter?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
